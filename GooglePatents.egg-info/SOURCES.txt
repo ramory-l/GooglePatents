@@ -1,0 +1,9 @@
+README.md
+setup.py
+GooglePatents/API.py
+GooglePatents/__init__.py
+GooglePatents.egg-info/PKG-INFO
+GooglePatents.egg-info/SOURCES.txt
+GooglePatents.egg-info/dependency_links.txt
+GooglePatents.egg-info/requires.txt
+GooglePatents.egg-info/top_level.txt
